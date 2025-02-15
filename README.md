@@ -129,7 +129,6 @@ https://github.com/user-attachments/assets/015ff78c-22c8-44bf-a440-de860e032776
 
 Mentor Mesh is designed with a **fully responsive layout**, ensuring a seamless experience across all screen sizes and devices.  
 
-#### Key Features  
 - **Optimized for all devices** – Works perfectly on **desktops, tablets, and mobile phones**.  
 - **Adaptive UI components** – Automatically adjusts layouts, fonts, and buttons for different screen sizes.  
 - **Smooth navigation** – Ensures a user-friendly experience regardless of the device being used.  
