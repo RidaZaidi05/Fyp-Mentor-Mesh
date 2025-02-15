@@ -1,4 +1,4 @@
-# Mentor Mesh
+# Mentor Mesh (MERN Stack)
 Mentor Mesh is a platform designed to bridge the gap between teachers and students within the same organization, making it easier for students to find suitable Final Year Project (FYP) ideas and supervisors. Teachers can showcase project ideas based on their expertise, and students can explore these ideas while also viewing the teachers' qualifications and research work. This platform streamlines the FYP selection process, ensuring students connect with the right mentors for their academic and research pursuits.
 ## Key Features
 ### 🔐 Login/Logout with Role-Based Access
